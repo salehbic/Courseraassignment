@@ -1,4 +1,4 @@
-this is a repository for all my Coursera course: HTML, CSS, and Javascript for Web Developers
+This is a Repository for all my Coursera course: HTML, CSS, and Javascript for Web Developers
 
 
 Assignment  solutions
