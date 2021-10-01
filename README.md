@@ -3,8 +3,8 @@ This is a Repository for all my Coursera course: HTML, CSS, and Javascript for W
 
 Assignment  solutions
 <br>
-check out
-   <br>
+ <span>Look it up</span>
+ <br>
 <a href="https://salehbic.github.io/myassignmentcy/module2-solution/">module2-solution<a>
   <br>
 <a href="https://salehbic.github.io/myassignmentcy/module3-solution/">module3-solution<a>
