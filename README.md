@@ -12,9 +12,3 @@ Assignment  solutions
 <a href="https://salehbic.github.io/myassignmentcy/module4-solution/">module4-solution<a>
   <br>
 <a href="https://salehbic.github.io/myassignmentcy/module5-solution/">module5-solution<a>
-
- 
- <br>
- 
-
- <a href="https://salehbic.github.io/myassignmentcy/module5-solution/" role="link" target="_blank" rel="noopener noreferrer" >module6-solution</a>
